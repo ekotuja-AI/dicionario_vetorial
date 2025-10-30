@@ -1,0 +1,1 @@
+# Pacote Services do Dicionário Vetorial
