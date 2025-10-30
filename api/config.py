@@ -48,8 +48,8 @@ class APIConfig:
     # Informações de contato
     CONTACT_INFO = {
         "name": "Eduardo Kotujansky",
-        "url": "https://github.com/eduardok_TJSCCP",
-        "email": "eduardok@tjsc.jus.br",
+        "url": "https://github.com/ekotuja-AI",
+        "email": "ekotuja@gmail.com",
     }
     
     # Informações de licença
